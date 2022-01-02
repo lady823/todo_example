@@ -35,7 +35,7 @@ export default {
             removeTodo,
             newTodo,
             changeTodo
-        } = useTools()
+        } = useTodos()
         
         const {
             setSaying,
